@@ -24,7 +24,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SYNDROM (Angular/NestJS Boilerplate) https://syndrom.io/
 
 ## Node.js
-
+- SaaSBerry - Your partner in the SaaS business for programmers who want to save hundreds of hours in re-creating repetitive coding elements - [saasberry.io](https://saasberry.io)
 - ShipMySaaS - Powerful, secure, and easy to use SaaS boilerplate - [https://shipmysaas.com](https://shipmysaas.com)
 - SaaSphere - NextJS, Feature rich, cheap alternative to other expensive boilerplates - https://saasphere.dev
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
